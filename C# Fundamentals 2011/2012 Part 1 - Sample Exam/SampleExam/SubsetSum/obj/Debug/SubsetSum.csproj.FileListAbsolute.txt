@@ -1,0 +1,6 @@
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\bin\Debug\SubsetSum.exe.config
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\bin\Debug\SubsetSum.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\bin\Debug\SubsetSum.pdb
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\obj\Debug\SubsetSum.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\obj\Debug\SubsetSum.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\SubsetSum\obj\Debug\SubsetSum.pdb

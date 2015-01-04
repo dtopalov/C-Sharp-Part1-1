@@ -1,0 +1,6 @@
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\bin\Debug\BitBall.exe.config
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\bin\Debug\BitBall.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\bin\Debug\BitBall.pdb
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\obj\Debug\BitBall.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\obj\Debug\BitBall.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 28 Dec 2012\Exam\BitBall\obj\Debug\BitBall.pdb

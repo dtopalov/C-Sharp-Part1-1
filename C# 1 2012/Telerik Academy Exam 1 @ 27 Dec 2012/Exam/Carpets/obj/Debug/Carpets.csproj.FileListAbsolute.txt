@@ -1,0 +1,6 @@
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\bin\Debug\Carpets.exe.config
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\bin\Debug\Carpets.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\bin\Debug\Carpets.pdb
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\obj\Debug\Carpets.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\obj\Debug\Carpets.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 27 Dec 2012\Exam\Carpets\obj\Debug\Carpets.pdb

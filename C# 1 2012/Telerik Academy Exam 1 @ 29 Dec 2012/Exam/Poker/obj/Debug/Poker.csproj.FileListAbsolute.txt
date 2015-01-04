@@ -1,0 +1,6 @@
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\bin\Debug\Poker.exe.config
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\bin\Debug\Poker.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\bin\Debug\Poker.pdb
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\obj\Debug\Poker.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\Poker\obj\Debug\Poker.pdb

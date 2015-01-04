@@ -1,0 +1,6 @@
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\bin\Debug\CartesianCoord.exe.config
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\bin\Debug\CartesianCoord.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\bin\Debug\CartesianCoord.pdb
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\obj\Debug\CartesianCoord.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\obj\Debug\CartesianCoord.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\CartesianCoord\obj\Debug\CartesianCoord.pdb

@@ -1,0 +1,6 @@
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe.config
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\bin\Debug\TripleRotationOfDigits.pdb
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.exe
+D:\Work\C#\C# 1 2012\Telerik Academy Exam 1 @ 29 Dec 2012\Exam\TripleRotationOfDigits\obj\Debug\TripleRotationOfDigits.pdb

@@ -1,0 +1,6 @@
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\bin\Debug\MathExpression.exe.config
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\bin\Debug\MathExpression.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\bin\Debug\MathExpression.pdb
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\obj\Debug\MathExpression.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\obj\Debug\MathExpression.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\MathExpression\obj\Debug\MathExpression.pdb

@@ -1,0 +1,5 @@
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\BinDigitsCount\bin\Debug\BinDigitsCount.exe.config
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\BinDigitsCount\bin\Debug\BinDigitsCount.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\BinDigitsCount\bin\Debug\BinDigitsCount.pdb
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\BinDigitsCount\obj\Debug\BinDigitsCount.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Sample Exam\SampleExam\BinDigitsCount\obj\Debug\BinDigitsCount.pdb

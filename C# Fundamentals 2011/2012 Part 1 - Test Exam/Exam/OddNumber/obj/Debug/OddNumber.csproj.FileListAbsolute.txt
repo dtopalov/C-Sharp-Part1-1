@@ -1,0 +1,6 @@
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\bin\Debug\OddNumber.exe.config
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\bin\Debug\OddNumber.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\bin\Debug\OddNumber.pdb
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\obj\Debug\OddNumber.csprojResolveAssemblyReference.cache
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\obj\Debug\OddNumber.exe
+D:\Work\C#\C# Fundamentals 2011\2012 Part 1 - Test Exam\Exam\OddNumber\obj\Debug\OddNumber.pdb
