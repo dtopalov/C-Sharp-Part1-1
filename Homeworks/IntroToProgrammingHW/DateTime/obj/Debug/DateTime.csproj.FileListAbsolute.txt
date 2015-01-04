@@ -1,0 +1,8 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication4\bin\Debug\DateTime.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication4\bin\Debug\DateTime.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication4\bin\Debug\DateTime.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication4\obj\Debug\DateTime.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication4\obj\Debug\DateTime.pdb
+D:\Work\C#\01\IntroToProgrammingHW\DateTime\bin\Debug\DateTime.exe.config
+D:\Work\C#\01\IntroToProgrammingHW\DateTime\obj\Debug\DateTime.exe
+D:\Work\C#\01\IntroToProgrammingHW\DateTime\obj\Debug\DateTime.pdb

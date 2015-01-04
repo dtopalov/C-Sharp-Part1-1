@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\ASCII\bin\Debug\ASCII.exe.config
+D:\Work\C#\02\DataTypesAndVariables\ASCII\bin\Debug\ASCII.exe
+D:\Work\C#\02\DataTypesAndVariables\ASCII\bin\Debug\ASCII.pdb
+D:\Work\C#\02\DataTypesAndVariables\ASCII\obj\Debug\ASCII.exe
+D:\Work\C#\02\DataTypesAndVariables\ASCII\obj\Debug\ASCII.pdb

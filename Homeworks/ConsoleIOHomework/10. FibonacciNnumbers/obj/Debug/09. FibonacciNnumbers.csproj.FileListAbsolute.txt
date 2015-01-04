@@ -1,0 +1,6 @@
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\bin\Debug\_10.FibonacciNnumbers.exe.config
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\bin\Debug\_10.FibonacciNnumbers.exe
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\bin\Debug\_10.FibonacciNnumbers.pdb
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\obj\Debug\09. FibonacciNnumbers.csprojResolveAssemblyReference.cache
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\obj\Debug\_10.FibonacciNnumbers.exe
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\obj\Debug\_10.FibonacciNnumbers.pdb

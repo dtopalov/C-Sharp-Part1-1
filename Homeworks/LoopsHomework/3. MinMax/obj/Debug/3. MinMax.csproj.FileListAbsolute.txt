@@ -1,0 +1,5 @@
+D:\Work\C#\06. Loops\HW\Solution1\3. MinMax\bin\Debug\_3.MinMax.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\3. MinMax\bin\Debug\_3.MinMax.exe
+D:\Work\C#\06. Loops\HW\Solution1\3. MinMax\bin\Debug\_3.MinMax.pdb
+D:\Work\C#\06. Loops\HW\Solution1\3. MinMax\obj\Debug\_3.MinMax.exe
+D:\Work\C#\06. Loops\HW\Solution1\3. MinMax\obj\Debug\_3.MinMax.pdb

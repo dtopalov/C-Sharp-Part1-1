@@ -1,0 +1,1 @@
+D:\Work\C#\04\ConsoleIOHomework\10. FibonacciNnumbers\bin\Debug\_10.FibonacciNnumbers.exe.config

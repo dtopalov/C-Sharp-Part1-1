@@ -1,0 +1,3 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\5. BitCheck\bin\Debug\_5.BitCheck.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\5. BitCheck\obj\Debug\_5.BitCheck.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\5. BitCheck\obj\Debug\_5.BitCheck.pdb

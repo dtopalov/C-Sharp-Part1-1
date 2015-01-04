@@ -1,0 +1,6 @@
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\bin\Debug\_6.CalculateFractionsSum.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\bin\Debug\_6.CalculateFractionsSum.exe
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\bin\Debug\_6.CalculateFractionsSum.pdb
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\obj\Debug\6. CalculateFractionsSum.csprojResolveAssemblyReference.cache
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\obj\Debug\_6.CalculateFractionsSum.exe
+D:\Work\C#\06. Loops\HW\Solution1\6. CalculateFractionsSum\obj\Debug\_6.CalculateFractionsSum.pdb

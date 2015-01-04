@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe.config
+D:\Work\C#\02\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.exe
+D:\Work\C#\02\DataTypesAndVariables\ExchangeValues\bin\Debug\ExchangeValues.pdb
+D:\Work\C#\02\DataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.exe
+D:\Work\C#\02\DataTypesAndVariables\ExchangeValues\obj\Debug\ExchangeValues.pdb

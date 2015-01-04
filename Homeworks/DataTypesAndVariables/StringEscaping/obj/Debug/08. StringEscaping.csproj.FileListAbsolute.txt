@@ -1,0 +1,3 @@
+D:\Work\C#\02\DataTypesAndVariables\StringEscaping\bin\Debug\StringEscaping.exe.config
+D:\Work\C#\02\DataTypesAndVariables\StringEscaping\obj\Debug\StringEscaping.exe
+D:\Work\C#\02\DataTypesAndVariables\StringEscaping\obj\Debug\StringEscaping.pdb

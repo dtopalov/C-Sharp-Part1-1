@@ -1,0 +1,5 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\9. CircleAndRectangleCheck\bin\Debug\_9.CircleAndRectangleCheck.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\9. CircleAndRectangleCheck\bin\Debug\_9.CircleAndRectangleCheck.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\9. CircleAndRectangleCheck\bin\Debug\_9.CircleAndRectangleCheck.pdb
+D:\Work\C#\03\OperatorsExpressionsStatements\9. CircleAndRectangleCheck\obj\Debug\_9.CircleAndRectangleCheck.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\9. CircleAndRectangleCheck\obj\Debug\_9.CircleAndRectangleCheck.pdb

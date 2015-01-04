@@ -1,0 +1,1 @@
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\bin\Debug\EmployeesRecord.exe.config

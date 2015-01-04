@@ -1,0 +1,5 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication7\bin\Debug\FirstAndLastName.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication7\bin\Debug\FirstAndLastName.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication7\bin\Debug\FirstAndLastName.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication7\obj\Debug\FirstAndLastName.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication7\obj\Debug\FirstAndLastName.pdb

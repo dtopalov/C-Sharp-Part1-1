@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\bin\Debug\EmployeesRecord.exe.config
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\bin\Debug\EmployeesRecord.exe
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\bin\Debug\EmployeesRecord.pdb
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\obj\Debug\EmployeesRecord.exe
+D:\Work\C#\02\DataTypesAndVariables\EmployeesRecord\obj\Debug\EmployeesRecord.pdb

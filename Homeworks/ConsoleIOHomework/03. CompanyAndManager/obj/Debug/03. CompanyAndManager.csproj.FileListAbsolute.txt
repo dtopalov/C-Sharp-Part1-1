@@ -1,0 +1,6 @@
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\bin\Debug\_03.CompanyAndManager.exe.config
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\bin\Debug\_03.CompanyAndManager.exe
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\bin\Debug\_03.CompanyAndManager.pdb
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\obj\Debug\03. CompanyAndManager.csprojResolveAssemblyReference.cache
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\obj\Debug\_03.CompanyAndManager.exe
+D:\Work\C#\04\ConsoleIOHomework\03. CompanyAndManager\obj\Debug\_03.CompanyAndManager.pdb

@@ -1,0 +1,3 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\7. CheckPrime\bin\Debug\_7.CheckPrime.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\7. CheckPrime\obj\Debug\_7.CheckPrime.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\7. CheckPrime\obj\Debug\_7.CheckPrime.pdb

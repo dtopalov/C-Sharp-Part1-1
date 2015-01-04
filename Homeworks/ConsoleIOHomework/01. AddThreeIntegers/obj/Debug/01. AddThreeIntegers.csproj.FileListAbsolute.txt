@@ -1,0 +1,6 @@
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\bin\Debug\_01.AddThreeIntegers.exe.config
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\bin\Debug\_01.AddThreeIntegers.exe
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\bin\Debug\_01.AddThreeIntegers.pdb
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\obj\Debug\01. AddThreeIntegers.csprojResolveAssemblyReference.cache
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\obj\Debug\_01.AddThreeIntegers.exe
+D:\Work\C#\04\ConsoleIOHomework\01. AddThreeIntegers\obj\Debug\_01.AddThreeIntegers.pdb

@@ -1,0 +1,5 @@
+D:\Work\C#\06. Loops\HW\Solution1\12. CustomMatrix\bin\Debug\_12.CustomMatrix.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\12. CustomMatrix\bin\Debug\_12.CustomMatrix.exe
+D:\Work\C#\06. Loops\HW\Solution1\12. CustomMatrix\bin\Debug\_12.CustomMatrix.pdb
+D:\Work\C#\06. Loops\HW\Solution1\12. CustomMatrix\obj\Debug\_12.CustomMatrix.exe
+D:\Work\C#\06. Loops\HW\Solution1\12. CustomMatrix\obj\Debug\_12.CustomMatrix.pdb

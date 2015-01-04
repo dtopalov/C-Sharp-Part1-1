@@ -1,0 +1,5 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\4. ThirdDigitCheck\bin\Debug\_4.ThirdDigitCheck.pdb
+D:\Work\C#\03\OperatorsExpressionsStatements\4. ThirdDigitCheck\obj\Debug\_4.ThirdDigitCheck.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\4. ThirdDigitCheck\obj\Debug\_4.ThirdDigitCheck.pdb

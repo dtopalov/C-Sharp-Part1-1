@@ -1,0 +1,5 @@
+D:\Work\C#\04\ConsoleIOHomework\05. GreaterNumber\bin\Debug\_05.GreaterNumber.exe.config
+D:\Work\C#\04\ConsoleIOHomework\05. GreaterNumber\bin\Debug\_05.GreaterNumber.exe
+D:\Work\C#\04\ConsoleIOHomework\05. GreaterNumber\bin\Debug\_05.GreaterNumber.pdb
+D:\Work\C#\04\ConsoleIOHomework\05. GreaterNumber\obj\Debug\_05.GreaterNumber.exe
+D:\Work\C#\04\ConsoleIOHomework\05. GreaterNumber\obj\Debug\_05.GreaterNumber.pdb

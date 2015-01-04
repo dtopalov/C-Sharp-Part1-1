@@ -1,0 +1,5 @@
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\4. SortNumbers\bin\Debug\_4.SortNumbers.exe.config
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\4. SortNumbers\bin\Debug\_4.SortNumbers.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\4. SortNumbers\bin\Debug\_4.SortNumbers.pdb
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\4. SortNumbers\obj\Debug\_4.SortNumbers.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\4. SortNumbers\obj\Debug\_4.SortNumbers.pdb

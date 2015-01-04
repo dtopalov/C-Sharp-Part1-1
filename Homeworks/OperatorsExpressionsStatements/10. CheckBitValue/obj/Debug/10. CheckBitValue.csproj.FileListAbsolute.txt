@@ -1,0 +1,5 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\10. CheckBitValue\bin\Debug\_10.CheckBitValue.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\10. CheckBitValue\bin\Debug\_10.CheckBitValue.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\10. CheckBitValue\bin\Debug\_10.CheckBitValue.pdb
+D:\Work\C#\03\OperatorsExpressionsStatements\10. CheckBitValue\obj\Debug\_10.CheckBitValue.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\10. CheckBitValue\obj\Debug\_10.CheckBitValue.pdb

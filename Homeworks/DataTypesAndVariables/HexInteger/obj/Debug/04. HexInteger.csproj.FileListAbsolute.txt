@@ -1,0 +1,3 @@
+D:\Work\C#\02\DataTypesAndVariables\HexInteger\bin\Debug\HexInteger.exe.config
+D:\Work\C#\02\DataTypesAndVariables\HexInteger\obj\Debug\HexInteger.exe
+D:\Work\C#\02\DataTypesAndVariables\HexInteger\obj\Debug\HexInteger.pdb

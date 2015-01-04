@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe.config
+D:\Work\C#\02\DataTypesAndVariables\CopyrightTriangle\bin\Debug\CopyrightTriangle.exe
+D:\Work\C#\02\DataTypesAndVariables\CopyrightTriangle\bin\Debug\CopyrightTriangle.pdb
+D:\Work\C#\02\DataTypesAndVariables\CopyrightTriangle\obj\Debug\CopyrightTriangle.exe
+D:\Work\C#\02\DataTypesAndVariables\CopyrightTriangle\obj\Debug\CopyrightTriangle.pdb

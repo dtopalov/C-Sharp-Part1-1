@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\PrintChar\bin\Debug\PrintChar.exe.config
+D:\Work\C#\02\DataTypesAndVariables\PrintChar\bin\Debug\PrintChar.exe
+D:\Work\C#\02\DataTypesAndVariables\PrintChar\bin\Debug\PrintChar.pdb
+D:\Work\C#\02\DataTypesAndVariables\PrintChar\obj\Debug\PrintChar.exe
+D:\Work\C#\02\DataTypesAndVariables\PrintChar\obj\Debug\PrintChar.pdb

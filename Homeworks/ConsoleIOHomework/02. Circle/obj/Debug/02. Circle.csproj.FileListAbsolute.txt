@@ -1,0 +1,5 @@
+D:\Work\C#\04\ConsoleIOHomework\02. Circle\bin\Debug\_02.Circle.exe.config
+D:\Work\C#\04\ConsoleIOHomework\02. Circle\bin\Debug\_02.Circle.exe
+D:\Work\C#\04\ConsoleIOHomework\02. Circle\bin\Debug\_02.Circle.pdb
+D:\Work\C#\04\ConsoleIOHomework\02. Circle\obj\Debug\_02.Circle.exe
+D:\Work\C#\04\ConsoleIOHomework\02. Circle\obj\Debug\_02.Circle.pdb

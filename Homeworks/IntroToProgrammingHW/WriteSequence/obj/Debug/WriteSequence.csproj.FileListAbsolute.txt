@@ -1,0 +1,3 @@
+D:\Work\C#\01\IntroToProgrammingHW\WriteSequence\bin\Debug\WriteSequence.exe.config
+D:\Work\C#\01\IntroToProgrammingHW\WriteSequence\obj\Debug\WriteSequence.exe
+D:\Work\C#\01\IntroToProgrammingHW\WriteSequence\obj\Debug\WriteSequence.pdb

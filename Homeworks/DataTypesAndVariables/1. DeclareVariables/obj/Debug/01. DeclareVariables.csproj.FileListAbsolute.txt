@@ -1,0 +1,3 @@
+D:\Work\C#\02\DataTypesAndVariables\1. DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\Work\C#\02\DataTypesAndVariables\1. DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\Work\C#\02\DataTypesAndVariables\1. DeclareVariables\obj\Debug\DeclareVariables.pdb

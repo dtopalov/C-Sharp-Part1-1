@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\GenderBoolean\bin\Debug\GenderBoolean.exe.config
+D:\Work\C#\02\DataTypesAndVariables\GenderBoolean\bin\Debug\GenderBoolean.exe
+D:\Work\C#\02\DataTypesAndVariables\GenderBoolean\bin\Debug\GenderBoolean.pdb
+D:\Work\C#\02\DataTypesAndVariables\GenderBoolean\obj\Debug\GenderBoolean.exe
+D:\Work\C#\02\DataTypesAndVariables\GenderBoolean\obj\Debug\GenderBoolean.pdb

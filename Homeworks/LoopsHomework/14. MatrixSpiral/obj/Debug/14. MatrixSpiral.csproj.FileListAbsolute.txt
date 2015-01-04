@@ -1,0 +1,5 @@
+D:\Work\C#\06. Loops\HW\Solution1\14. MatrixSpiral\bin\Debug\_14.MatrixSpiral.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\14. MatrixSpiral\bin\Debug\_14.MatrixSpiral.exe
+D:\Work\C#\06. Loops\HW\Solution1\14. MatrixSpiral\bin\Debug\_14.MatrixSpiral.pdb
+D:\Work\C#\06. Loops\HW\Solution1\14. MatrixSpiral\obj\Debug\_14.MatrixSpiral.exe
+D:\Work\C#\06. Loops\HW\Solution1\14. MatrixSpiral\obj\Debug\_14.MatrixSpiral.pdb

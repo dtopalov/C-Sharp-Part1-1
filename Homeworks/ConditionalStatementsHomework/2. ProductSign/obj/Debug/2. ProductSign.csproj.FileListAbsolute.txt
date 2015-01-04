@@ -1,0 +1,5 @@
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\2. ProductSign\bin\Debug\_2.ProductSign.exe.config
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\2. ProductSign\bin\Debug\_2.ProductSign.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\2. ProductSign\bin\Debug\_2.ProductSign.pdb
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\2. ProductSign\obj\Debug\_2.ProductSign.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\2. ProductSign\obj\Debug\_2.ProductSign.pdb

@@ -1,0 +1,3 @@
+D:\Work\C#\02\DataTypesAndVariables\CompareNumbers\bin\Debug\CompareNumbers.exe.config
+D:\Work\C#\02\DataTypesAndVariables\CompareNumbers\obj\Debug\CompareNumbers.exe
+D:\Work\C#\02\DataTypesAndVariables\CompareNumbers\obj\Debug\CompareNumbers.pdb

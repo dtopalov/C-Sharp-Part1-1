@@ -1,0 +1,6 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\bin\Debug\_11.CheckBitValue2.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\bin\Debug\_11.CheckBitValue2.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\bin\Debug\_11.CheckBitValue2.pdb
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\obj\Debug\11. CheckBitValue2.csprojResolveAssemblyReference.cache
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\obj\Debug\_11.CheckBitValue2.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\11. CheckBitValue2\obj\Debug\_11.CheckBitValue2.pdb

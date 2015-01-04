@@ -1,0 +1,1 @@
+D:\Work\C#\02\DataTypesAndVariables\HexInteger\bin\Debug\HexInteger.exe.config

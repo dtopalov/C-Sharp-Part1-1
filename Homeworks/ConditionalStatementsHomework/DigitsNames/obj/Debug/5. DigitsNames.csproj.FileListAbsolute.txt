@@ -1,0 +1,5 @@
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\DigitsNames\bin\Debug\DigitsNames.exe.config
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\DigitsNames\bin\Debug\DigitsNames.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\DigitsNames\bin\Debug\DigitsNames.pdb
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\DigitsNames\obj\Debug\DigitsNames.exe
+D:\Work\C#\05. Conditional Statements\HW\ConditionalStatementsHomework\DigitsNames\obj\Debug\DigitsNames.pdb

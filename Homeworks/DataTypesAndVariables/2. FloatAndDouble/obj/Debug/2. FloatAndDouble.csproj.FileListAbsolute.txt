@@ -1,0 +1,10 @@
+D:\Work\C#\02\DataTypesAndVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Work\C#\02\DataTypesAndVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Work\C#\02\DataTypesAndVariables\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Work\C#\02\DataTypesAndVariables\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Work\C#\02\DataTypesAndVariables\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\bin\Debug\FloatAndDouble.exe.config
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\bin\Debug\FloatAndDouble.exe
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\bin\Debug\FloatAndDouble.pdb
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\obj\Debug\FloatAndDouble.exe
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\obj\Debug\FloatAndDouble.pdb

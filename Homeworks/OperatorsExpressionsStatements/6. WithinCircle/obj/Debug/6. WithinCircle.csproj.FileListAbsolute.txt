@@ -1,0 +1,6 @@
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\bin\Debug\_6.WithinCircle.exe.config
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\bin\Debug\_6.WithinCircle.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\bin\Debug\_6.WithinCircle.pdb
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\obj\Debug\6. WithinCircle.csprojResolveAssemblyReference.cache
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\obj\Debug\_6.WithinCircle.exe
+D:\Work\C#\03\OperatorsExpressionsStatements\6. WithinCircle\obj\Debug\_6.WithinCircle.pdb

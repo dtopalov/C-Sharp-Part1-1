@@ -1,0 +1,5 @@
+D:\Work\C#\06. Loops\HW\Solution1\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.exe
+D:\Work\C#\06. Loops\HW\Solution1\2. NumbersNotDivisibleBy3And7\bin\Debug\_2.NumbersNotDivisibleBy3And7.pdb
+D:\Work\C#\06. Loops\HW\Solution1\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.exe
+D:\Work\C#\06. Loops\HW\Solution1\2. NumbersNotDivisibleBy3And7\obj\Debug\_2.NumbersNotDivisibleBy3And7.pdb

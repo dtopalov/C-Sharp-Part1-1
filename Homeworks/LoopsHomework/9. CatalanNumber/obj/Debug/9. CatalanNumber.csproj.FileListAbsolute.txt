@@ -1,0 +1,6 @@
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\bin\Debug\_9.CatalanNumber.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\bin\Debug\_9.CatalanNumber.exe
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\bin\Debug\_9.CatalanNumber.pdb
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\obj\Debug\9. CatalanNumber.csprojResolveAssemblyReference.cache
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\obj\Debug\_9.CatalanNumber.exe
+D:\Work\C#\06. Loops\HW\Solution1\9. CatalanNumber\obj\Debug\_9.CatalanNumber.pdb

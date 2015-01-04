@@ -1,0 +1,5 @@
+D:\Work\C#\04\ConsoleIOHomework\08. PrintFirstNNumbers\bin\Debug\_08.PrintFirstNNumbers.exe.config
+D:\Work\C#\04\ConsoleIOHomework\08. PrintFirstNNumbers\bin\Debug\_08.PrintFirstNNumbers.exe
+D:\Work\C#\04\ConsoleIOHomework\08. PrintFirstNNumbers\bin\Debug\_08.PrintFirstNNumbers.pdb
+D:\Work\C#\04\ConsoleIOHomework\08. PrintFirstNNumbers\obj\Debug\_08.PrintFirstNNumbers.exe
+D:\Work\C#\04\ConsoleIOHomework\08. PrintFirstNNumbers\obj\Debug\_08.PrintFirstNNumbers.pdb

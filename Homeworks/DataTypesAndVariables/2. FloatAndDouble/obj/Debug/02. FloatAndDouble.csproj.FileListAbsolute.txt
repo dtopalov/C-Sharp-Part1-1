@@ -1,0 +1,3 @@
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\bin\Debug\FloatAndDouble.exe.config
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\obj\Debug\FloatAndDouble.exe
+D:\Work\C#\02\DataTypesAndVariables\2. FloatAndDouble\obj\Debug\FloatAndDouble.pdb

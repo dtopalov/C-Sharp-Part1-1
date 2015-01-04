@@ -1,0 +1,5 @@
+D:\Work\C#\02\DataTypesAndVariables\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Work\C#\02\DataTypesAndVariables\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Work\C#\02\DataTypesAndVariables\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Work\C#\02\DataTypesAndVariables\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Work\C#\02\DataTypesAndVariables\HelloWorld\obj\Debug\HelloWorld.pdb

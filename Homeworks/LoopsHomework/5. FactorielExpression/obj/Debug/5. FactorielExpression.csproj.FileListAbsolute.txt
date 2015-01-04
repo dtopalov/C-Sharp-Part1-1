@@ -1,0 +1,5 @@
+D:\Work\C#\06. Loops\HW\Solution1\5. FactorielExpression\bin\Debug\_5.FactorielExpression.exe.config
+D:\Work\C#\06. Loops\HW\Solution1\5. FactorielExpression\bin\Debug\_5.FactorielExpression.exe
+D:\Work\C#\06. Loops\HW\Solution1\5. FactorielExpression\bin\Debug\_5.FactorielExpression.pdb
+D:\Work\C#\06. Loops\HW\Solution1\5. FactorielExpression\obj\Debug\_5.FactorielExpression.exe
+D:\Work\C#\06. Loops\HW\Solution1\5. FactorielExpression\obj\Debug\_5.FactorielExpression.pdb

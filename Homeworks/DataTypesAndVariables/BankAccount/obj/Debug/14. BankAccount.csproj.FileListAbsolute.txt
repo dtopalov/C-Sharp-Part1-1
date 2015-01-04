@@ -1,0 +1,6 @@
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\bin\Debug\BankAccount.exe
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\bin\Debug\BankAccount.pdb
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\obj\Debug\BankAccount.exe
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\obj\Debug\BankAccount.pdb
+D:\Work\C#\02\DataTypesAndVariables\BankAccount\obj\Debug\14. BankAccount.csprojResolveAssemblyReference.cache
