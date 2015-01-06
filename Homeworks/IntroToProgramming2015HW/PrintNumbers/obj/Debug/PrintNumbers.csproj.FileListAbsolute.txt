@@ -1,0 +1,15 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\PrintNumbers.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\PrintNumbers.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\PrintNumbers.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\obj\Debug\PrintNumbers.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\obj\Debug\PrintNumbers.pdb
+D:\Work\C#\01\IntroToProgrammingHW\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Work\C#\01\IntroToProgrammingHW\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Work\C#\01\IntroToProgrammingHW\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\obj\Debug\PrintNumbers.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\bin\Debug\PrintNumbers.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\bin\Debug\PrintNumbers.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintNumbers\obj\Debug\PrintNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config

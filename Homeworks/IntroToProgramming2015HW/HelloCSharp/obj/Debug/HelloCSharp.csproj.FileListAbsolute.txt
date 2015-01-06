@@ -1,0 +1,11 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication5\bin\Debug\HelloCSharp.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication5\bin\Debug\HelloCSharp.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication5\bin\Debug\HelloCSharp.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication5\obj\Debug\HelloCSharp.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication5\obj\Debug\HelloCSharp.pdb
+D:\Work\C#\01\IntroToProgrammingHW\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Work\C#\01\IntroToProgrammingHW\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Work\C#\01\IntroToProgrammingHW\HelloCSharp\obj\Debug\HelloCSharp.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\HelloCSharp\bin\Debug\HelloCSharp.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\HelloCSharp\obj\Debug\HelloCSharp.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\HelloCSharp\obj\Debug\HelloCSharp.pdb

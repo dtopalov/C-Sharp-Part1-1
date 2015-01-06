@@ -1,0 +1,36 @@
+1. Microsoft Visual Studio
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. 
+Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, 
+Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.
+
+2. Mono
+
+MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+Its primary focus is development of projects that use Mono and .NET frameworks.
+MonoDevelop integrates features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, source control, 
+a graphical user interface (GUI) and Web designer.
+It supports Boo, C, C++, C#, CIL, D, F#, Java, Oxygene, Python, Vala, and Visual Basic.NET.
+
+3. Eclipse
+
+Eclipse IDE contains a base workspace and an extensible plug-in system for customizing the environment. 
+Written mostly in Java, Eclipse can be used to develop applications. 
+By means of various plug-ins, Eclipse may also be used to develop applications in other programming languages: 
+Ada, ABAP, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Natural, Perl, PHP, Prolog, Python, R, 
+Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+Development environments include the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for PHP, etc.
+
+4. NetBeans
+
+NetBeans is an IDE for developing primarily with Java, but also with other languages, 
+in particular PHP, C/C++, and HTML5. It is also an application platform framework for Java desktop applications and others.
+The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms supporting a compatible JVM.
+
+5. Code::Blocks
+
+Code::Blocks is a free C, C++ and Fortran IDE built to meet the most demanding needs of its users. 
+It is designed to be very extensible and fully configurable, supporting different platforms.
+Built around a plugin framework, Code::Blocks can be extended with plugins. 
+Any kind of functionality can be added by installing/coding a plugin.

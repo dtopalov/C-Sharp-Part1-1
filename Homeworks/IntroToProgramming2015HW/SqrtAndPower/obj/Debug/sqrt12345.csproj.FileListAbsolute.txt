@@ -1,0 +1,12 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\obj\Debug\sqrt12345.csprojResolveAssemblyReference.cache
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\bin\Debug\SqrtAndPower.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\bin\Debug\SqrtAndPower.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\bin\Debug\SqrtAndPower.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\obj\Debug\Sqrt12345.csprojResolveAssemblyReference.cache
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\obj\Debug\SqrtAndPower.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\SqrtAndPower\obj\Debug\SqrtAndPower.pdb

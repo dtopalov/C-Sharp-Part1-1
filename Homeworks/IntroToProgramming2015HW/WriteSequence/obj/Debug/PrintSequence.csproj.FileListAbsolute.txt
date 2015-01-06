@@ -1,0 +1,5 @@
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\WriteSequence\bin\Debug\WriteSequence.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\WriteSequence\bin\Debug\WriteSequence.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\WriteSequence\bin\Debug\WriteSequence.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\WriteSequence\obj\Debug\WriteSequence.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\WriteSequence\obj\Debug\WriteSequence.pdb

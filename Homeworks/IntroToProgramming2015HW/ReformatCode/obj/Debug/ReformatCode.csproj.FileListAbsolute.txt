@@ -1,0 +1,5 @@
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\ReformatCode\bin\Debug\ReformatCode.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\ReformatCode\bin\Debug\ReformatCode.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\ReformatCode\bin\Debug\ReformatCode.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\ReformatCode\obj\Debug\ReformatCode.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\ReformatCode\obj\Debug\ReformatCode.pdb

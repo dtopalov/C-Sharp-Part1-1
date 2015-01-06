@@ -1,0 +1,18 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\obj\Debug\AgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\bin\Debug\AgeInTenYears.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\bin\Debug\AgeInTenYears.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\bin\Debug\AgeInTenYears.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\obj\Debug\AgeInTenYears.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication1\obj\Debug\AgeInTenYears.pdb
+D:\Work\C#\01\HelloCSharp\AgeAfterTenYears\bin\Debug\AgeInTenYears.exe.config
+D:\Work\C#\01\HelloCSharp\AgeAfterTenYears\obj\Debug\AgeInTenYears.exe
+D:\Work\C#\01\HelloCSharp\AgeAfterTenYears\obj\Debug\AgeInTenYears.pdb
+D:\Work\C#\01\IntroToProgrammingHW\AgeAfterTenYears\bin\Debug\AgeInTenYears.exe.config
+D:\Work\C#\01\IntroToProgrammingHW\AgeAfterTenYears\obj\Debug\AgeInTenYears.exe
+D:\Work\C#\01\IntroToProgrammingHW\AgeAfterTenYears\obj\Debug\AgeInTenYears.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\bin\Debug\AgeInTenYears.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\obj\Debug\AgeInTenYears.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\obj\Debug\AgeInTenYears.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\bin\Debug\AgeInTenYears.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\bin\Debug\AgeInTenYears.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.csprojResolveAssemblyReference.cache

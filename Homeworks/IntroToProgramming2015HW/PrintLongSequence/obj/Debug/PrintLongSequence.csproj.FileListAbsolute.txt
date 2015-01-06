@@ -1,0 +1,5 @@
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\Work\C#\01. Introduction to Programming\IntroToProgrammingHW\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

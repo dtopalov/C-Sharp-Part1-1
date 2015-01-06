@@ -1,0 +1,5 @@
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+D:\Work\C#\01\HelloCSharp\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
