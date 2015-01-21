@@ -16,6 +16,7 @@ class RectangleArea
         Console.Write("Please enter height: ");
         double rectangleHeight = Convert.ToDouble(Console.ReadLine());
         double rectangleArea = rectangleWidth * rectangleHeight;
-        Console.WriteLine("The area of a rectangle with width " + rectangleWidth + " and height " + rectangleHeight + " is " + rectangleArea);
+        double rectanglePerimeter = 2*(rectangleWidth + rectangleHeight);
+        Console.WriteLine("Width: {0}\nHeight: {1}\nPerimeter: {2}\nArea: {3}", rectangleWidth, rectangleHeight, rectanglePerimeter, rectangleArea);
     }
 }
